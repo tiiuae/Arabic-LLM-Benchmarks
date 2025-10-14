@@ -69,4 +69,28 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 |LAraBench: Benchmarking Arabic AI with Large Language Models| [[paper](https://aclanthology.org/2024.eacl-long.30.pdf)]  [[repo](https://github.com/qcri/LLMeBench)] |
 |BALSAM: A Platform for Benchmarking Arabic Large Language Models| [[paper](https://arxiv.org/abs/2507.22603)]  [[website](https://benchmarks.ksaa.gov.sa/b/balsam)] |
 ##  <a name='cult'></a> Culture & Dialects
+| Paper/Benchmark | Links   |
+|-----------------|---------|
+|Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking | [[paper](https://arxiv.org/abs/2503.00231)] [[data](https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark)] |
+|Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs| [[paper](https://arxiv.org/abs/2503.00151v1)] [[data](https://huggingface.co/datasets/UBC-NLP/palm)] [[repo](https://github.com/UBC-NLP/palm)] |
+|PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture| [[paper](https://arxiv.org/abs/2509.02550)] [[data](https://huggingface.co/datasets/UBC-NLP/palmx_2025_subtask1_culture)] [[data](https://huggingface.co/datasets/UBC-NLP/palmx_2025_subtask2_islamic)] [[website](https://palmx.dlnlp.ai/)] |
+|Commonsense Reasoning in Arab Culture| [[paper](https://arxiv.org/abs/2502.12788)] [[data](https://huggingface.co/datasets/MBZUAI/ArabCulture)] [[lm-eval](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/arab_culture))] |
+|AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs| [[paper](https://arxiv.org/abs/2409.11404)] [[data](https://huggingface.co/datasets/QCRI/AraDiCE)] [[lm-eval](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/aradice)] |
+|AL-QASIDA: Analyzing LLM Quality and Accuracy Systematically in Dialectal Arabic| [[paper](https://arxiv.org/abs/2412.04193)]  |
+|Absher: A Benchmark for Evaluating Large Language Models Understanding of Saudi Dialects| [[paper](https://arxiv.org/abs/2507.10216)] |
 ##  <a name='target'></a> Specific-Targets
+| Paper/Benchmark | Topic | Links   |
+|----------------| -------|---------|
+|CamelEval: Advancing Culturally Aligned Arabic Language Models and Benchmarks | Instruction-following | [[paper](https://arxiv.org/abs/2409.12623)]|
+|Halwasa: Quantify and Analyze Hallucinations in Large Language Models: Arabic as a Case Study| Hallucination | [[paper](https://aclanthology.org/2024.lrec-main.705/)]|
+|Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks| Multimodal| [[paper](https://arxiv.org/abs/2403.01031)] [[data](https://huggingface.co/datasets/UBC-NLP/Henna-Bench-Eval)] [[repo](https://github.com/UBC-NLP/peacock)]|
+|CAMEL-Bench: A Comprehensive Arabic LMM Benchmark| Multimodal| [[paper](https://arxiv.org/abs/2410.18976)] [[data](https://huggingface.co/collections/ahmedheakl/camel-bench-670750f3998395452cd3b7b1)] [[repo](https://mbzuai-oryx.github.io/Camel-Bench/)]|
+|AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic| Safety| [[paper](https://arxiv.org/abs/2410.17040)] [[data](https://huggingface.co/datasets/asas-ai/AraTrust)] |
+|Arabic Dataset for LLM Safeguard Evaluation| Safety| [[paper](https://arxiv.org/html/2505.18152v1)] [[repo](https://github.com/mbzuai-nlp/Arabic_safety_evaluation)]|
+|ALRAGE | Context-Based (RAG)| [[data](https://huggingface.co/datasets/OALL/ALRAGE)]|
+|AraTable: Benchmarking LLMs' Reasoning and Understanding of Arabic Tabular Data | Context-Based (Tabular)| [[paper](https://arxiv.org/abs/2507.18442))] [[repo](https://github.com/rana-alshaikh/AraTable-Benchmark)]|
+|AraHalluEval: A Fine-grained Hallucination Evaluation
+Framework for Arabic LLMs| Hallucination| [[paper](https://www.arxiv.org/abs/2509.04656)] [[repo](https://github.com/aishaalansari57/AraHalluEval)]|
+|HalluVerse25: Fine-grained Multilingual Benchmark Dataset for LLM Hallucinations| Poetry| [[paper](https://arxiv.org/abs/2503.07833)] |
+|ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark | Multimodal| [[paper](https://arxiv.org/abs/2505.17021)] [[data](https://huggingface.co/datasets/MBZUAI/ARB)] [[repo](https://github.com/mbzuai-oryx/ARB)]|
+|Redteaming Frontier LLMs with AI Astrolabe Arabic Safety Index (ASAS - أساس)| Safety| [[blog](https://www.aiastrolabe.com/post/redteaming-frontier-llms-with-ai-astrolabe-arabic-safety-index-asas)]|
