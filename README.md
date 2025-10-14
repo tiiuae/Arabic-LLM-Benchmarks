@@ -60,5 +60,13 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 |Arabic-Gsm8k| Reasoning| [[data](https://huggingface.co/datasets/Omartificial-Intelligence-Space/Arabic-gsm8k)]|
 |Hajj-FQA: A benchmark Arabic dataset for developing question-answering systems on Hajj fatwas| Religion | [[paper](https://link.springer.com/article/10.1007/s44443-025-00128-w)]
 ##  <a name='NLP'></a>NLP Tasks
+| Paper/Benchmark | Links   |
+|-----------------|---------|
+|Neural Arabic Question Answering| [[paper](https://aclanthology.org/W19-4612/)] [[data](https://huggingface.co/datasets/hsseinmz/arcd)] [[repo](https://github.com/husseinmozannar/SOQAL)] |     
+|TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages| [[paper](https://arxiv.org/abs/2003.05002))] [[repo](https://github.com/google-research-datasets/tydiqa)] |
+|ORCA: A Challenging Benchmark for Arabic Language Understanding| [[paper](https://aclanthology.org/2023.findings-acl.609/)] [[data](https://huggingface.co/datasets/UBC-NLP/orca)] |
+|Dolphin: A Challenging and Diverse Benchmark for Arabic NLG| [[paper](https://arxiv.org/abs/2305.14989)] |
+|LAraBench: Benchmarking Arabic AI with Large Language Models| [[paper](https://aclanthology.org/2024.eacl-long.30.pdf)]  [[repo](https://github.com/qcri/LLMeBench)] |
+|BALSAM: A Platform for Benchmarking Arabic Large Language Models| [[paper](https://arxiv.org/abs/2507.22603)]  [[website](https://benchmarks.ksaa.gov.sa/b/balsam)] |
 ##  <a name='cult'></a> Culture & Dialects
 ##  <a name='target'></a> Specific-Targets
