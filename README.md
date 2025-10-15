@@ -45,7 +45,7 @@ If you use this repository or find the survey helpful, please cite:
 ---
 
 #  <a name='taxonmoy'></a>Taxonomy
-![taxonmoy](assets/taxonomy.png)
+![taxonmoy](benchs_fig.png)
 The taxonomy formed based on existing work/benchmarks is depicted above. Each of the categories is defined below:
 * **Knowledge** includes benchmarks evaluating acquired knowledge and reasoning capabilities, along with domain-specific benchmarks in fields such as law and medicine.
 * **Natural Language Processing (NLP)** encompasses early task-specific benchmarks and comprehensive multi-task benchmarks, reflecting the evolution from narrow task evaluation to unified assessment across diverse dialects and domains.
