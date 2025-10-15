@@ -2,7 +2,7 @@
 
 A comprehensive repository of Arabic LLMs benchmarks and evaluation frameworks, curated from systematic research on evaluating Arabic Large Language Models.
 
-**📚 Related Publication:** [Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps](https://arxiv.org/abs/2507.15850)
+**📚 Survey paper:** [Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps](https://arxiv.org/abs/2507.15850)
 
 ---
 
@@ -16,8 +16,8 @@ This repository presents the **first systematic survey of Arabic LLM benchmarks*
 * [Overview](#overview)
 * [Citation](#citations)
 * [Taxonomy](#taxonmoy)
-    1. [STEM & Domain Knowledge](#STEM_DOM)
-        - [STEM](#STEM)
+    1. [Knowledge](#STEM_DOM)
+        - [General & STEM](#STEM)
         - [Domain Knowledge](#DOM)
     3. [NLP Tasks](#NLP)
     4. [Culture & Dialects](#cult)
@@ -47,15 +47,15 @@ If you use this repository or find the survey helpful, please cite:
 #  <a name='taxonmoy'></a>Taxonomy
 ![taxonmoy](assets/taxonomy.png)
 The taxonomy formed based on existing work/benchmarks is depicted above. Each of the categories is defined below:
-* **Knowledge and STEM** includes benchmarks evaluating acquired knowledge and reasoning capabilities, along with domain-specific benchmarks in fields such as law and medicine.
+* **Knowledge** includes benchmarks evaluating acquired knowledge and reasoning capabilities, along with domain-specific benchmarks in fields such as law and medicine.
 * **Natural Language Processing (NLP)** encompasses early task-specific benchmarks and comprehensive multi-task benchmarks, reflecting the evolution from narrow task evaluation to unified assessment across diverse dialects and domains.
 * **Culture and Dialects** groups benchmarks assessing cultural knowledge and dialect understanding, addressing the essential property of cultural awareness in Arabic LLMs.
 * **Target-Specific** covers benchmarks designed to assess particular LLM properties such as safety, hallucination detection, instruction-following, and vision capabilities.
 
 ---
 
-##  <a name='STEM_DOM'></a>STEM & Domain Knowledge
-###  <a name='STEM'></a>STEM
+##  <a name='STEM_DOM'></a>Knowledge
+###  <a name='STEM'></a>Geneal Knowledge & STEM
 | Paper/Benchmark | Links  | Access |
 |----------------|---------|--------|
 |Measuring Massive Multitask Language Understanding| [paper](https://arxiv.org/abs/2009.03300) • [data](https://huggingface.co/datasets/MBZUAI/ArabicMMLU) • [lighteval](https://github.com/huggingface/lighteval/blob/main/community_tasks/arabic_evals.py)| Public |
