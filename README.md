@@ -81,14 +81,15 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 ---
 
 ##  <a name='NLP'></a>NLP Tasks
-| Paper/Benchmark | Links   | Access |
-|-----------------|---------|--------|
+| Paper/Benchmark | Links                    | Access |
+|-----------------|--------------------------|--------|
 |Neural Arabic Question Answering| [paper](https://aclanthology.org/W19-4612/) • [data](https://huggingface.co/datasets/hsseinmz/arcd) • [repo](https://github.com/husseinmozannar/SOQAL)| Public |
 |TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages| [paper](https://arxiv.org/abs/2003.05002) • [repo](https://github.com/google-research-datasets/tydiqa)| Public |
 |ORCA: A Challenging Benchmark for Arabic Language Understanding| [paper](https://aclanthology.org/2023.findings-acl.609/) • [data](https://huggingface.co/datasets/UBC-NLP/orca)| Public |
 |Dolphin: A Challenging and Diverse Benchmark for Arabic NLG| [paper](https://arxiv.org/abs/2305.14989)| Private |
 |LAraBench: Benchmarking Arabic AI with Large Language Models| [paper](https://aclanthology.org/2024.eacl-long.30.pdf) • [repo](https://github.com/qcri/LLMeBench)| Public |
 |BALSAM: A Platform for Benchmarking Arabic Large Language Models| [paper](https://arxiv.org/abs/2507.22603) • [website](https://benchmarks.ksaa.gov.sa/b/balsam)| Public |
+|AlGhafa Evaluation Benchmark for Arabic Language Models | [paper](https://aclanthology.org/2023.arabicnlp-1.21/) • [data](https://huggingface.co/datasets/OALL/AlGhafa-Arabic-LLM-Benchmark-Native) • [repo](https://gitlab.com/tiiuae/alghafa) | Public |
 
 ---
 
