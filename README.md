@@ -56,8 +56,8 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 
 ##  <a name='STEM_DOM'></a>Knowledge
 ###  <a name='STEM'></a>Geneal Knowledge & STEM
-| Paper/Benchmark | Links                   | Access |
-|----------------|--------------------------|--------|
+| Paper/Benchmark | Links                                   | Access |
+|-----------------|-----------------------------------------|--------|
 |Measuring Massive Multitask Language Understanding| [paper](https://arxiv.org/abs/2009.03300) • [data](https://huggingface.co/datasets/MBZUAI/ArabicMMLU) • [lighteval](https://github.com/huggingface/lighteval/blob/main/community_tasks/arabic_evals.py)| Public |
 |EXAMS: A Multi-Subject High School Examinations Dataset for Cross-Lingual and Multilingual Question Answering| [paper](https://arxiv.org/abs/2011.03080) • [data](https://huggingface.co/datasets/OALL/Arabic_EXAMS) • [lighteval](https://github.com/huggingface/lighteval/blob/main/community_tasks/arabic_evals.py)| Public |
 |ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic| [paper](https://arxiv.org/abs/2402.12840) • [data](https://huggingface.co/datasets/MBZUAI/ArabicMMLU) • [repo](https://github.com/mbzuai-nlp/ArabicMMLU)| Public |
@@ -68,8 +68,8 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 |3LM: Bridging Arabic, STEM, and Code through Benchmarking| [paper](https://arxiv.org/abs/2507.15850) • [data](https://huggingface.co/collections/tiiuae/3lm-arabic-benchmark-687de9629072871e702d35e1) • [repo](https://github.com/tiiuae/3LM-benchmark) | Public |
 
 ###  <a name='DOM'></a>Domain Knowledge
-| Paper/Benchmark | Topic | Links                    | Access |
-|----------------| -------|--------------------------|--------|
+| Paper/Benchmark | Topic |Links                         | Access |
+|----------------| -------|------------------------------|--------|
 |ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models| Law | [paper](https://arxiv.org/abs/2408.07983) • [repo](https://github.com/Thiqah/ArabLegalEval)| Public |
 |AraMed: Arabic Medical Question Answering using Pretrained Transformer Language Models| Medical | [paper](https://aclanthology.org/2024.osact-1.6/) • [repo](https://github.com/Waadtss/AraMed)| Public |
 |MizanQA: Benchmarking Large Language Models on Moroccan Legal Question Answering| Law | [paper](https://arxiv.org/abs/2508.16357) • [data](https://huggingface.co/datasets/adlbh/MizanQA-v0)| Public |
@@ -81,8 +81,8 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 ---
 
 ##  <a name='NLP'></a>NLP Tasks
-| Paper/Benchmark | Links                    | Access |
-|-----------------|--------------------------|--------|
+| Paper/Benchmark | Links                         | Access |
+|-----------------|-------------------------------|--------|
 |Neural Arabic Question Answering| [paper](https://aclanthology.org/W19-4612/) • [data](https://huggingface.co/datasets/hsseinmz/arcd) • [repo](https://github.com/husseinmozannar/SOQAL)| Public |
 |TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages| [paper](https://arxiv.org/abs/2003.05002) • [repo](https://github.com/google-research-datasets/tydiqa)| Public |
 |ORCA: A Challenging Benchmark for Arabic Language Understanding| [paper](https://aclanthology.org/2023.findings-acl.609/) • [data](https://huggingface.co/datasets/UBC-NLP/orca)| Public |
