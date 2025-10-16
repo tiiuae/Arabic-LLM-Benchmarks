@@ -2,7 +2,7 @@
 
 A comprehensive repository of Arabic LLMs benchmarks and evaluation benchmarks, curated from systematic research on evaluating Arabic Large Language Models.
 
-**📚 Survey paper:** [Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps](https://arxiv.org/abs/2507.15850)
+**📚 Survey paper:** [Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps](https://arxiv.org/abs/2510.13430)
 
 ---
 
@@ -28,19 +28,7 @@ This repository presents the **first systematic survey of Arabic LLM benchmarks*
 # <a name='overview'></a> 📋 Overview
 This survey provides the first systematic review of Arabic LLM benchmarks, analyzing 40+ evaluation benchmarks across NLP tasks, knowledge domains, cultural understanding, and specialized capabilities. We propose a taxonomy organizing benchmarks into four categories: Knowledge and STEM, NLP Tasks, Culture and Dialects, and Target-Specific evaluations. Our analysis reveals significant progress in benchmark diversity while identifying critical gaps: limited temporal evaluation, insufficient multi-turn dialogue assessment, and cultural misalignment in translated datasets. We examine three primary approaches: native collection, translation, and synthetic generation discussing their trade-offs regarding authenticity, scale, and cost. This work serves as a comprehensive reference for Arabic NLP researchers, providing insights into benchmark methodologies, reproducibility standards, and evaluation metrics while offering recommendations for future development.
 
-#  <a name='citations'></a>📖 Citation
-If you use this repository or find the survey helpful, please cite:
-```bibtex
-@misc{alarabicbench2025,
-  title={Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps},
-  author={Author Names},
-  year={2025},
-  eprint={2501.02189},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2501.02189}
-}
-```
+
 
 ---
 
@@ -124,6 +112,22 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions! If you'd like to add new benchmarks or improve existing information, please feel free to submit issues or pull requests.
+
+---
+
+#  <a name='citations'></a>📖 Citation
+If you use this repository or find the survey helpful, please cite:
+```bibtex
+@misc{alzubaidi2025evaluatingarabiclargelanguage,
+      title={Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps}, 
+      author={Ahmed Alzubaidi and Shaikha Alsuwaidi and Basma El Amel Boussaha and Leen AlQadi and Omar Alkaabi and Mohammed Alyafeai and Hamza Alobeidli and Hakim Hacid},
+      year={2025},
+      eprint={2510.13430},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.13430}, 
+}
+```
