@@ -6,15 +6,8 @@ A comprehensive repository of Arabic LLMs benchmarks and evaluation benchmarks, 
 
 ---
 
-## Overview
-
-This repository presents the **first systematic survey of Arabic LLM benchmarks**, analyzing 40+ evaluation benchmarks across multiple dimensions of language model assessment. The survey examines existing benchmarks, evaluation methodologies, and identifies critical research gaps in the field.
-
----
-
 ## Table of Contents
 * [Overview](#overview)
-* [Citation](#citations)
 * [Taxonomy](#taxonmoy)
     1. [Knowledge](#STEM_DOM)
         - [General & STEM](#STEM)
@@ -22,6 +15,7 @@ This repository presents the **first systematic survey of Arabic LLM benchmarks*
     3. [NLP Tasks](#NLP)
     4. [Culture & Dialects](#cult)
     5. [Specific-Targets](#target)
+* [Citation](#citations)
 
 ---
 
