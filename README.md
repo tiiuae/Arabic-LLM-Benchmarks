@@ -83,7 +83,7 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 | PalmX | PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture| [paper](https://arxiv.org/abs/2509.02550) • [data](https://huggingface.co/datasets/UBC-NLP/palmx_2025_subtask1_culture) • [data](https://huggingface.co/datasets/UBC-NLP/palmx_2025_subtask2_islamic) • [website](https://palmx.dlnlp.ai/)| Public |
 | ArabCulture | Commonsense Reasoning in Arab Culture| [paper](https://arxiv.org/abs/2502.12788) • [data](https://huggingface.co/datasets/MBZUAI/ArabCulture) • [lm-eval](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/arab_culture)| Public |
 | AraDiCE | AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs| [paper](https://arxiv.org/abs/2409.11404) • [data](https://huggingface.co/datasets/QCRI/AraDiCE) • [lm-eval](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/aradice)| Public |
-| AL-QASIDA | AL-QASIDA: Analyzing LLM Quality and Accuracy Systematically in Dialectal Arabic| [paper](https://arxiv.org/abs/2412.04193)| Private |
+| AL-QASIDA | AL-QASIDA: Analyzing LLM Quality and Accuracy Systematically in Dialectal Arabic| [paper](https://arxiv.org/abs/2412.04193) • [repo](https://github.com/JHU-CLSP/al-qasida) | Public |
 | Absher | Absher: A Benchmark for Evaluating Large Language Models Understanding of Saudi Dialects| [paper](https://arxiv.org/abs/2507.10216)| Private |
 
 ---
