@@ -59,7 +59,7 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 | MedArabiQ | MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks|Medical|[paper](https://arxiv.org/abs/2505.03427) • [repo](https://github.com/nyuad-cai/MedArabiQ)| Public |
 | Arabic-Gsm8k | Arabic-Gsm8k| Reasoning| [data](https://huggingface.co/datasets/Omartificial-Intelligence-Space/Arabic-gsm8k)| Public |
 | Hajj-FQA | Hajj-FQA: A benchmark Arabic dataset for developing question-answering systems on Hajj fatwas| Religion | [paper](https://link.springer.com/article/10.1007/s44443-025-00128-w)| Private |
-| MedAraBench | MedAraBench: Large-scale Arabic Medical Question Answering Dataset and Benchmark | Medical | [paper](https://arxiv.org/pdf/2602.01714) [repo](https://github.com/nyuad-cai/MedAraBench)| Public |
+| MedAraBench | MedAraBench: Large-scale Arabic Medical Question Answering Dataset and Benchmark | Medical | [paper](https://arxiv.org/pdf/2602.01714) • [repo](https://github.com/nyuad-cai/MedAraBench)| Public |
 
 ---
 
@@ -87,7 +87,7 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 | AL-QASIDA | AL-QASIDA: Analyzing LLM Quality and Accuracy Systematically in Dialectal Arabic| [paper](https://arxiv.org/abs/2412.04193) • [repo](https://github.com/JHU-CLSP/al-qasida) | Public |
 | Absher | Absher: A Benchmark for Evaluating Large Language Models Understanding of Saudi Dialects| [paper](https://arxiv.org/abs/2507.10216)| Private |
 | ADAB | ADAB: Arabic Dataset for Automated Politeness Benchmarking -- A Large-Scale Resource for Computational Sociopragmatics | [paper](https://arxiv.org/pdf/2602.13870) | Private |
-| DialectalArabicMMLU | DialectalArabicMMLU: Benchmarking Dialectal Capabilities in Arabic and Multilingual Language Models | [paper](https://arxiv.org/pdf/2510.27543) [data](https://huggingface.co/datasets/MBZUAI/Dialectal-Arabic-MMLU)| Public |
+| DialectalArabicMMLU | DialectalArabicMMLU: Benchmarking Dialectal Capabilities in Arabic and Multilingual Language Models | [paper](https://arxiv.org/pdf/2510.27543) • [data](https://huggingface.co/datasets/MBZUAI/Dialectal-Arabic-MMLU)| Public |
 
 ---
 
