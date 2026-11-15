@@ -60,6 +60,7 @@ The taxonomy formed based on existing work/benchmarks is depicted above. Each of
 | Arabic-Gsm8k | Arabic-Gsm8k| Reasoning| [data](https://huggingface.co/datasets/Omartificial-Intelligence-Space/Arabic-gsm8k)| Public |
 | Hajj-FQA | Hajj-FQA: A benchmark Arabic dataset for developing question-answering systems on Hajj fatwas| Religion | [paper](https://link.springer.com/article/10.1007/s44443-025-00128-w)| Private |
 | MedAraBench | MedAraBench: Large-scale Arabic Medical Question Answering Dataset and Benchmark | Medical | [paper](https://arxiv.org/pdf/2602.01714) • [repo](https://github.com/nyuad-cai/MedAraBench)| Public |
+| Gulf Text-to-SQL Bench | Gulf Text-to-SQL Bench: the same business questions in English, Modern Standard Arabic and Gulf dialect, scored by SQL execution accuracy | Text-to-SQL | [repo](https://github.com/usmanbilytica/arabic-text-to-sql-bench) | Public |
 
 ---
 
